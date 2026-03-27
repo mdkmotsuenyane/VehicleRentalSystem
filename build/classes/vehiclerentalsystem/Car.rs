@@ -1,0 +1,4 @@
+vehiclerentalsystem.motorcycle
+vehiclerentalsystem.motorbike
+vehiclerentalsystem.Motorcycle
+vehiclerentalsystem.Car
