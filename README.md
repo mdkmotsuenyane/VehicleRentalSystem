@@ -80,22 +80,22 @@ vehiclerentalsystem/
 cd vehicle-rental-system
 
 ### 3. Compile the Java Files
-- javac vehiclerentalsystem/*.java
+javac vehiclerentalsystem/*.java
 
 ### 4. Run the Application
-- java vehiclerentalsystem.VehicleRentalSystem
+ java vehiclerentalsystem.VehicleRentalSystem
 ### 📚 Requirements
 Java JDK 8 or higher
 Any Java IDE (e.g., IntelliJ IDEA, NetBeans, Eclipse) or terminal
 
 ### 🖥️ Sample Usage
-- 1. View Vehicles
-- 2. Rent Vehicle
-- 3. Return Vehicle
-- 4. Exit
+1. View Vehicles
+2. Rent Vehicle
+3. Return Vehicle
+4. Exit
 
-Enter your choice:
-✨ Future Improvements
+
+## ✨ Future Improvements
 - Add a graphical user interface (GUI)
 - Integrate a database for persistent storage
 - Implement user authentication
@@ -103,11 +103,11 @@ Enter your choice:
 - Include booking history and reports
   
 ## 👨‍💻 Author
--Mokadi Motsuenyane
+Mokadi Motsuenyane
 
 ### 🫱🏿‍🫲🏽 Contributing
 
-### Contributions are welcome!
+Contributions are welcome!
 
 ### 📄 License
 
