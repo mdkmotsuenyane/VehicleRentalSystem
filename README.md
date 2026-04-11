@@ -56,6 +56,7 @@ The system supports multiple vehicle types:
 ## 🏗️ Project Structure
 
 
+```
 vehiclerentalsystem/
 │
 ├── Vehicle.java // Superclass
@@ -63,6 +64,7 @@ vehiclerentalsystem/
 ├── Motorcycle.java // Motorcycle subclass
 ├── VehicleRentalSystem.java // Main class (menu system)
 
+```
 
 ---
 
@@ -97,15 +99,14 @@ Enter your choice:
 - Implement user authentication
 - Add more vehicle types (e.g., trucks, vans)
 - Include booking history and reports
-👨‍💻 Author
-
-### Mokadi Motsuenyane
+  
+## 👨‍💻 Author
+-Mokadi Motsuenyane
 
 ### 🫱🏿‍🫲🏽 Contributing
 
 ### Contributions are welcome!
 
-Submit a pull request
-📄 License
+### 📄 License
 
 This project is for educational purposes and is open for improvement.
