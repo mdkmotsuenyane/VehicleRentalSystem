@@ -71,8 +71,10 @@ vehiclerentalsystem/
 ## ⚙️ How to Run the Project
 
 ### 1. Clone the Repository
-``bash
+```bash
 - git clone https://github.com/your-username/vehicle-rental-system.git
+
+```
 
 ### 2. Navigate to the Project Directory
 cd vehicle-rental-system
